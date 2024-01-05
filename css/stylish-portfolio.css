@@ -179,7 +179,7 @@ h6 {
 }
 
 #brand {
-  max-width: 100px;
+  max-height: 100px;
 }
 
 #sidebar-wrapper.active {
@@ -373,7 +373,7 @@ a:hover, a:focus, a:active {
 }
 
 .bg-primary {
-  background-color: #1D809F !important;
+  background-color: slategray !important;
 }
 
 .text-primary {
